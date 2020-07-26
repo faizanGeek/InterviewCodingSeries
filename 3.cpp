@@ -1,3 +1,5 @@
+// [[[Q3-Smallest Subarray with a given sum (easy)]]]
+
 // Given an array of positive numbers and a positive number ‘S’,
 // find the length of the smallest contiguous subarray
 // whose sum is greater than or equal to ‘S’. Return 0,
