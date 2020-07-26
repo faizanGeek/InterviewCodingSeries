@@ -32,13 +32,13 @@ int main()
             if (dist < k)
             {
                 mp[str[j]]++;
-                cout << dist << "* ";
+
                 dist++;
                 j++;
             }
             else
             {
-                cout << j << " " << i << endl;
+
                 mx = max(mx, j - i);
                 mp[str[i]]--;
                 if (mp[str[i]] == 0)

@@ -27,7 +27,7 @@ int main()
     i = 0, j = 0;
     int sum = a[0];
     int ans = -1;
-    // cout << "ji";
+
     while (i < n && j < n && i <= j)
     {
         if (sum == s)
